@@ -1,0 +1,26 @@
+.buttons{
+    display:flex;
+    justify-content: center;
+    padding: 25px;
+    border-radius: 20%;
+    
+}
+.round-button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid;
+    border-radius: 50%; /* Make the border radius 50% to create a round shape */
+    width: 100px; /* Adjust width and height as needed */
+    height: 100px;
+    cursor: pointer;
+    margin: 0 10px;
+   
+}
+.name{
+    display:flex;
+    justify-content: center;
+}
+#para{
+    display:flex;
+    justify-content: center;
+}
